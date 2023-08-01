@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**6ontrealChurchofGod/6ontrealChurchofGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### You can checkout my blogs :loudspeaker: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.DrThomasPengkx.vercel.app/getMediumBlogs?username=DrThomasPengkx&type=vertical)](https://medium.com/@DrThomasPengkx)
+
+[Add your blogs to your github profile using my Github Blog Cards]
+
+---
+
+Let's connect 👨‍💻 and forge the future together.😁✌
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+
+[website]: https://DrThomasPengkx.github.io/Portfolio/
+[twitter]: https://twitter.com/DrThomasPengkx
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/DrThomasPengkx/
+[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[medium]: https://medium.com/@DrThomasPengkx/
