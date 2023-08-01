@@ -3,9 +3,7 @@
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.DrThomasPengkx.vercel.app/getMediumBlogs?username=DrThomasPengkx&type=vertical)](https://medium.com/@DrThomasPengkx)
 
-[Add your blogs to your github profile using my Github Blog Cards]
 
 ---
 
